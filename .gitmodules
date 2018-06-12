@@ -7,3 +7,6 @@
 [submodule "gateway"]
 	path = gateway
 	url = /Users/javierchacana/git/personales/jhipster/jhipster-course/conference/gateway
+[submodule "registry"]
+	path = registry
+	url = /Users/javierchacana/git/personales/jhipster/jhipster-course/conference/registry
