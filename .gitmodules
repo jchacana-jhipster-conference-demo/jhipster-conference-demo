@@ -1,0 +1,3 @@
+[submodule "blog"]
+	path = blog
+	url = /Users/javierchacana/git/personales/jhipster/jhipster-course/conference/blog
