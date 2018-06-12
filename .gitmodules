@@ -4,3 +4,6 @@
 [submodule "conference"]
 	path = conference
 	url = /Users/javierchacana/git/personales/jhipster/jhipster-course/conference/conference
+[submodule "gateway"]
+	path = gateway
+	url = /Users/javierchacana/git/personales/jhipster/jhipster-course/conference/gateway
