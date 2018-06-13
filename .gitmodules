@@ -1,12 +1,12 @@
 [submodule "blog"]
 	path = blog
-	url = git@github.com:jchacana/jhipster-blog-microservice.git
+	url = git@github.com:jchacana-jhipster-conference-demo/jhipster-blog-microservice.git
 [submodule "conference"]
 	path = conference
-	url = git@github.com:jchacana/jhipster-conference-microservice.git
+	url = git@github.com:jchacana-jhipster-conference-demo/jhipster-conference-microservice.git
 [submodule "gateway"]
 	path = gateway
-	url = git@github.com:jchacana/jhipster-conference-gateway.git
+	url = git@github.com:jchacana-jhipster-conference-demo/jhipster-conference-gateway.git
 [submodule "registry"]
 	path = registry
 	url = git@github.com:jchacana/jhipster-registry-fork.git
